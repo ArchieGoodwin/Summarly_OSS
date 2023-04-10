@@ -15,7 +15,7 @@ Summarly is a powerful iOS app built with Swift and SwiftUI that allows you to l
 To get started with Summarly, clone this repository and open the project in Xcode. Ensure that you have the latest version of Xcode installed to avoid compatibility issues.
 
 ```bash
-git clone https://github.com/username/summarly.git
+git clone [https://github.com/ArchieGoodwin/Summarly_OSS.git](https://github.com/ArchieGoodwin/Summarly_OSS)
 ```
 
 Open Summarly.xcodeproj in Xcode and run the app on the iOS simulator or a physical device.
