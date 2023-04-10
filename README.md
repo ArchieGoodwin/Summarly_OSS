@@ -1,6 +1,6 @@
 # Summarly
 
-Summarly is a powerful iOS app built with Swift and SwiftUI that allows you to load web articles or PDFs, analyze the content, prepare summaries, and engage in Q/A sessions with the content. The app leverages Pinecone, a vector database, for its memory feature to provide a seamless user experience.
+Summarly is an iOS app built with Swift and SwiftUI that allows you to load web articles or PDFs, analyze the content, prepare summaries, and engage in Q/A sessions with the content. The app leverages Pinecone, a vector database, for its memory feature to provide a seamless user experience.
 
 ## Features
 
